@@ -1,7 +1,8 @@
+version: '2'
 services:
   web:
     container_name: ${ODOO_CONTAINER_NAME}
-    image: odoodev:${ODOO_VERSION}
+    image: dockerodoov15.0:${ODOO_VERSION}
     depends_on:
       - db
     ports:

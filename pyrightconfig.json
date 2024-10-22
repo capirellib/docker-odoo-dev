@@ -1,8 +1,8 @@
 {
-    "stubPath": "/path/odoo-stubs16",
+    "stubPath": "//home/carlos/Documentos/Odoo-Desarrollos/odoo15/odoo-stubs",
     "extraPaths": [
-        "/path/server/odoo",
-        "/path/server/odoo/addons",
-        "/path/custom_addons"
+        "/home/carlos/Documentos/Odoo-Desarrollos/odoo15/odoo",
+        "/home/carlos/Documentos/Odoo-Desarrollos/odoo15/odoo/addons",
+        "/home/carlos/Documentos/Odoo-Desarrollos/odoo15/docker-odoo-dev/custom_addons"
     ]
 }
